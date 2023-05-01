@@ -1,2 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Ура, Ёпта!");
+﻿Console.WriteLine("Task19 & 21");
